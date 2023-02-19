@@ -1,2 +1,1 @@
-# VineshPiplineProject
-DevOps Practices
+﻿# Vinesh_javaapplication
